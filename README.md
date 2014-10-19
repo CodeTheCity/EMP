@@ -1,19 +1,28 @@
 EMP
 ===
 
-TEAM : Jan, Sophie, James, Jen, Gillian, Jane, Iain, @aboynejames
+TEAM : Jan, Sophie, James, Jen, Gillian, Jane, @watty62, @aboynejames
 
-CHALLENGE ONE : 
+CHALLENGE ONE : Assist someone moving to Aberdeen to find the GP of their choice based on a set of parameters (eg distance from home, gender, specialisms)
+
+CHALLENGE TWO : Explore how an empowered and informed citizen interacts with health services (esp GPs) and with wider well-being and sporting / activities community organisations? Compare and contrast the as-is 2014 position with the potential 2024 one.
+
+
 
 RESULTS : website for comparison of GP
 
-Comparsion of Aberdeen City GP practice and practioners
+Comparsion of Aberdeen City GP practice and practitioners
 
 
 DATA
 --------
-A spreadsheet of GP practices and GP's has been built and will appear as JSON data files on http://matchthecity.org/
+A spreadsheet of GP practices and GP's has been built and is now hosted at
+http://opendata.aberdeencity.gov.uk/dataset/7a548fae-9720-4498-bcc1-5e42db32129b/resource/80d8011c-79ce-439c-b5d0-e5556b500deb/download/GPsData.json
+
 Data inclued GP names, practioner name and qualification.
+
+A separate geojson file of location of geo-locations of GPs surgeries is also used:
+http://opendata.aberdeencity.gov.uk/dataset/37d0d251-441c-429f-b070-e1d17a00576c/resource/43c284d1-a5a7-4940-97dc-f917949b83d8/download/extrasurgery.geojson
 
 TEST ENVIRONMENT
 ---------------------------------
