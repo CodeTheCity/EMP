@@ -1,15 +1,30 @@
 EMP
 ===
 
-TEAM : Jan, Sophie, James, Jen, Gillian, Jane, @watty62, @aboynejames
+TEAM
+--------
+- Jan, 
+- Sophie, 
+- James, 
+- Jen, 
+- Gillian, 
+- Jane, 
+- @watty62, 
+- @aboynejames
 
-CHALLENGE ONE : Assist someone moving to Aberdeen to find the GP of their choice based on a set of parameters (eg distance from home, gender, specialisms)
+CHALLENGE ONE
+---------------
+Assist someone moving to Aberdeen to find the GP of their choice based on a set of parameters (eg distance from home, gender, specialisms)
 
-CHALLENGE TWO : Explore how an empowered and informed citizen interacts with health services (esp GPs) and with wider well-being and sporting / activities community organisations? Compare and contrast the as-is 2014 position with the potential 2024 one.
+CHALLENGE TWO
+---------------
+Explore how an empowered and informed citizen interacts with health services (esp GPs) and with wider well-being and sporting / activities community organisations? Compare and contrast the as-is 2014 position with the potential 2024 one.
 
 
 
-RESULTS : website for comparison of GP
+RESULTS
+----------
+A website for comparison of GP
 
 Comparsion of Aberdeen City GP practice and practitioners
 
@@ -38,4 +53,6 @@ LIBRARIES
 Jquery
 
 
-LINKS : Links to any demos, videos, blog posts etc... about your project for people to find out more. Especially interesting are progress reports, results of any research you have done, lists of similar apps, etc...
+LINKS
+-------
+Links to any demos, videos, blog posts etc... about your project for people to find out more. Especially interesting are progress reports, results of any research you have done, lists of similar apps, etc...
