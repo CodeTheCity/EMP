@@ -10,6 +10,10 @@ RESULTS : website for comparison of GP
 Comparsion of Aberdeen City GP practice and practioners
 
 
+DATA
+--------
+A spreadsheet of GP practices and GP's has been built and will appear as JSON data files on http://matchthecity.org/
+
 
 TEST ENVINRONMENT
 ---------------------------------
