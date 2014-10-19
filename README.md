@@ -13,7 +13,7 @@ Comparsion of Aberdeen City GP practice and practioners
 DATA
 --------
 A spreadsheet of GP practices and GP's has been built and will appear as JSON data files on http://matchthecity.org/
-
+Data inclued GP names, practioner name and qualification.
 
 TEST ENVIRONMENT
 ---------------------------------
