@@ -1,7 +1,7 @@
 EMP
 ===
 
-TEAM : Jan, Sophie, James, Jen, Gillian, Jane, Iain, @aboynejames
+TEAM : Jan, Sophie, James, Jen, Gillian, Jane, @watty62, @aboynejames
 
 CHALLENGE ONE : 
 
