@@ -15,7 +15,7 @@ DATA
 A spreadsheet of GP practices and GP's has been built and will appear as JSON data files on http://matchthecity.org/
 
 
-TEST ENVINRONMENT
+TEST ENVIRONMENT
 ---------------------------------
 
 UI - acceptance testing using casperJS
