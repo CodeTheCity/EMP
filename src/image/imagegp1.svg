@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="438.37546"
-   height="596.3183"
+   width="305.4375"
+   height="394.03583"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="imagegp1.svg">
+   sodipodi:docname="imagegp1.svg"
+   inkscape:export-filename="/var/www/html/codethecity/EMP/src/image/imagegp1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88"
-     inkscape:cx="171.46898"
-     inkscape:cy="140.32555"
+     inkscape:cx="171.46876"
+     inkscape:cy="-61.955543"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,10 +59,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3.5310179,-76.369404)">
+     transform="translate(-3.5312394,-76.370791)">
     <image
-       y="146.01805"
-       x="34.383118"
+       y="122.4052"
+       x="25.013313"
        id="image2993"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAAEoCAYAAAAQUJnGAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJykvfmzJcd13/k5mVX33rf23migG1sTOwgQ4CLRM7JMKkiJJmWRMiVS21AaeZaYCP80v0zMfzAx
@@ -3329,8 +3332,8 @@ R9ZVOxRzzuRV51Yq6xbINT5p51hwnnVRDq44Z27YKulqnUdMw4AU4eH0QHh8YsnJuiAvW+L006cX
 vv/7R4pr/MI3fhc8znsezxdKUVuoHscK+30oPKX32E9uLy8viCV25/OZ6/WqZpfnC/8FkdUIzp5E
 AeYAAAAASUVORK5CYII=
 "
-       height="296"
-       width="350" />
+       height="195.57709"
+       width="243.87718" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2996"
@@ -3344,7 +3347,8 @@ AeYAAAAASUVORK5CYII=
          id="flowPara3002"></flowPara></flowRoot>    <flowRoot
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3004"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="matrix(0.69679193,0,0,0.66073339,1.0554341,25.926201)"><flowRegion
          id="flowRegion3006"><rect
            y="473.95309"
            x="48.863636"
@@ -3352,14 +3356,14 @@ AeYAAAAASUVORK5CYII=
            width="356.81818"
            id="rect3008" /></flowRegion><flowPara
          id="flowPara3010">Distance: 0.3km</flowPara></flowRoot>    <rect
-       style="fill:none;stroke:#43422e;stroke-width:2.14314818;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.95294118;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#43422e;stroke-width:1.45417571;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.95294118;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3012"
-       width="436.22049"
-       height="594.17505"
-       x="4.6170287"
-       y="77.433754" />
+       width="303.95493"
+       height="392.59131"
+       x="4.2725425"
+       y="77.089264" />
     <flowRoot
-       transform="translate(-0.18359391,64.830462)"
+       transform="matrix(0.69679193,0,0,0.66073339,0.92750737,68.761852)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3004-8"
        xml:space="preserve"><flowRegion
@@ -3370,7 +3374,7 @@ AeYAAAAASUVORK5CYII=
            width="386.36365"
            id="rect3008-6" /></flowRegion><flowPara
          id="flowPara3010-2">GPs 6  Ration 80%m</flowPara></flowRoot>    <flowRoot
-       transform="translate(-21.925424,133.01228)"
+       transform="matrix(0.69679193,0,0,0.66073339,-14.222024,113.81186)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3004-8-8"
        xml:space="preserve"><flowRegion
