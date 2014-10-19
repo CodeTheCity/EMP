@@ -1,0 +1,29 @@
+body {
+background: #F7F6FB; /*url('../images/bg.png')*/
+border:1px solid black;
+color: #2A12C6;
+font-size: 20px;
+font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+line-height: 1.429;
+margin: 100;
+padding: 0;
+text-align: left;
+}
+/* HTML5 tags */
+header, section, footer,
+aside, nav, article, figure {
+display: block;
+} 
+
+.comparecontainer{
+border:1px solid green;
+color: #2A12C6;
+font-size: 20px;
+}
+
+.medicalpractice{
+
+border:1px solid red;
+color: #2A12C6;
+font-size: 20px;
+}
