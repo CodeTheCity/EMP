@@ -5,7 +5,7 @@ TEAM : Jan, Sophie, James, Jen, Gillian, Jane, @watty62, @aboynejames
 
 CHALLENGE ONE : Assist someone moving to Aberdeen to find the GP of their choice based on a set of parameters (eg distance from home, gender, specialisms)
 
-CHALLENGE TWO : Explore how an empowered and informed citizen interact with health services (esp GPs) and the wider well-being and sporting / activities community organisations? Compare and contrast the as-is 2014 position with the potential 2024 one.
+CHALLENGE TWO : Explore how an empowered and informed citizen interacts with health services (esp GPs) and with wider well-being and sporting / activities community organisations? Compare and contrast the as-is 2014 position with the potential 2024 one.
 
 
 
