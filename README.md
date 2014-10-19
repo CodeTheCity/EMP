@@ -1,7 +1,7 @@
 EMP
 ===
 
-TEAM : A list of your team members
+TEAM : Jan, Sophie, James, Jen, Gillian, Jane, Iain, @aboynejames
 
 CHALLENGE ONE : 
 
