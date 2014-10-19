@@ -11,7 +11,7 @@ CHALLENGE TWO : Explore how an empowered and informed citizen interacts with hea
 
 RESULTS : website for comparison of GP
 
-Comparsion of Aberdeen City GP practice and practioners
+Comparsion of Aberdeen City GP practice and practitioners
 
 
 DATA
