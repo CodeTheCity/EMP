@@ -1,6 +1,14 @@
 EMP
 ===
 
+NEXT STEPS (project 1)
+-----------------------------------
+
+Make desicision on UI design choice e.g.  carphonewarehouse type comparsion UI? (right now HTML UI code has been manually build for demo purpose)
+Currently setup code for HTM5 Javascript website.  (could be made for IOS and Android via phonegap or the like.
+Data need to be kept up to date (need to build some management tool for that).
+
+
 TEAM
 --------
 - Jan, 
