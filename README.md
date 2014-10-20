@@ -31,13 +31,14 @@ Comparsion of Aberdeen City GP practice and practitioners
 
 DATA
 --------
-A spreadsheet of GP practices and GP's has been built and is now hosted at
+We have created a spreadsheet of GPs practicing in Aberdeen, and the practices from whcih they operate. That is now hosted at:
+
 http://opendata.aberdeencity.gov.uk/dataset/7a548fae-9720-4498-bcc1-5e42db32129b/resource/80d8011c-79ce-439c-b5d0-e5556b500deb/download/GPsData.json
 
-Data inclued GP names, practioner name and qualification.
+Data includes GP names, practice name and qualifications.
 
 A separate geojson file of location of geo-locations of GPs surgeries is also used:
-http://opendata.aberdeencity.gov.uk/dataset/37d0d251-441c-429f-b070-e1d17a00576c/resource/43c284d1-a5a7-4940-97dc-f917949b83d8/download/extrasurgery.geojson
+http://opendata.aberdeencity.gov.uk/dataset/location-of-gp-doctors-practices
 
 TEST ENVIRONMENT
 ---------------------------------
