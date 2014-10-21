@@ -1,0 +1,287 @@
+Surname,Forename,Initials,Sex,Qualifications,Graduations,Grad Year,Practicing Year,Specialisms,Surgery ID,Foreign_key,Surgery Name,address line 1,Town,Post Code,LA Area,Telephone,Fax
+Adam,Neil,A,M,,,,,,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,0845 3376370,01224 849722
+Aitchinson,Valerie,A,F,,,,,,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,846 3376370,01224 849722
+Cassidy,Jame,,M,,Aberdeen University,2001,2007,Minor Surgery/IHD/Stroke/Steroid Injections,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,847 3376370,01224 849722
+Dean,Janet,,F,"
+",CambridgeUniversity and Medical School,1985,,Atrial Fibrillation/Warfarin lead/Post Natals,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,848 3376370,01224 849722
+Denison,Margaret,,F,DGM/DRCOG/DFFP/MRCGP,Aberdeen University,1996,2013,,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,849 3376370,01224 849722
+Grant,Lindsay,I,F,,Aberdeen University,1999,2004,Diabetes/Learning Difficulties,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,850 3376370,01224 849722
+Irvine,Kate,L,F,,Aberdeen University,,,Mental Health/Aviation Medicals,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,851 3376370,01224 849722
+Johnston,Moira,E,F,,,,,Cancer/Dementia,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,852 3376370,01224 849722
+Little,Anne,M,F,,,,,,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,853 3376370,01224 849722
+Lynch,Stephen,J,M,,Aberdeen University,1983,1987,CKD/IHD/Stroke Acupuncture/Steroid Injections,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,854 3376370,01224 849722
+Stewart,Carol,,F,,,,,Epilepsy/Post Natals,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,855 3376370,01224 849722
+McGrath,Grainne,,F,,,,,,N3070-1,23,Calsayseat Medical Practice,44 Powis Place,Aberdeen,AB25 3TX,Aberdeen City,856 3376370,01224 849722
+Alam,Khyber,,M,MBBS/MRCGP/MSC/DFFP,,,,,N3007-8,26,Denburn Medical Practice,Denburn HC/Rosemount Viaduct,Aberdeen,AB25 1QB,Aberdeen City,01224 643333,01224 555232/555232
+McEwan,Alastair,S,M,MBBS/DCH/MRCGP,,,,,N3007-8,26,Denburn Medical Practice,Denburn HC/Rosemount Viaduct,Aberdeen,AB25 1QB,Aberdeen City,01224 643333,01224 555232/555232
+Nicol,Greig,D,M,,,,,,N3007-8,26,Denburn Medical Practice,Denburn HC/Rosemount Viaduct,Aberdeen,AB25 1QB,Aberdeen City,01224 643333,01224 555232/555232
+Siddique,Abdul-Rashid,,M,,,,,,N3007-8,26,Denburn Medical Practice,Denburn HC/Rosemount Viaduct,Aberdeen,AB25 1QB,Aberdeen City,01224 643333,01224 555232/555232
+Iqbal,Amir,,M,,,,,,N3007-8,26,Denburn Medical Practice,Denburn HC/Rosemount Viaduct,Aberdeen,AB25 1QB,Aberdeen City,01224 643333,01224 555232/555232
+Morley,Maria,,F,,,,,,N3007-8,26,Denburn Medical Practice,Denburn HC/Rosemount Viaduct,Aberdeen,AB25 1QB,Aberdeen City,01224 643333,01224 555232/555232
+Farquharson,Judith,,F,MBChB/FRCGP/DRCOG/FPCert,Aberdeen University,1982,1985,Obstetrics/Gynaecology,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Craik,Mary,,F,MBChB/MRCPG,Aberdeen University,1988,1993,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Cornwell,Graeme,,M,MBChB/MRCPG/FRCGP,Aberdeen University,1990,1994,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Harrison,William,,M,MBChB/MRCPG/DRCOG,Aberdeen University,1984,1995,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Jacquellne,Prentice,,F,MBChB/MRCPG/BSc/DFFP,Edinburgh University,2001,2007,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Stephen,Terwey,,M,MBChB/MRCGP/DRCOG,Aberdeen University,2001,2008,Palliative care/Sports Medicine,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Dhillon,Harvinder,S,M,MBCHB/MRCPaed,,,,,N3008-2,10,Whinhill Medical Practice,,,,,,
+Forsyth,Linda,,F,MBChB,,,,,N3008-2,10,Whinhill Medical Practice,,,,,,
+Gauld,Graham,D,M,MBChB/DRCOG/DCH/MRCGP/FPCert,,,,,N3008-2,10,Whinhill Medical Practice,,,,,,
+Wilson,Fara,M,F,"MBChB, MRCGP",,,,,N3008-2,10,Whinhill Medical Practice,,,,,,
+Sim,Graeme,,M,MBChB/MRCGP/DRCOG/DFSRM,,,,,N3008-2,10,Whinhill Medical Practice,,,,,,
+Kaufmann,Kathrin,,F,DRCOG,,,,,N3008-2,10,Whinhill Medical Practice,,,,,,
+Porter,Belinda,J,F,MBChB/MRCGP,,,,,N3008-2,10,Whinhill Medical Practice,,,,,,
+Beattie,Laura,M,F,,,,,,N3027-5,11,Torry Medical Practice,,,,,,
+Guthrie,Gordon,M,M,,,,,,N3027-5,11,Torry Medical Practice,,,,,,
+Macleod,David,W,M,,,,,,N3027-5,11,Torry Medical Practice,,,,,,
+McGuigan,Lorraine,A,F,,,,,,N3027-5,11,Torry Medical Practice,,,,,,
+Munro,Sandie,J,F,,,,,,N3027-5,11,Torry Medical Practice,,,,,,
+Webster,Andrew,,M,,,,,,N3027-5,11,Torry Medical Practice,,,,,,
+Innes,Karin,,F,MBChB/MRCGP/DRCOG/LMCC,,,1999,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+Marwick,David,M,M,MBChB/MRCGP/DRCOG,,,1992,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+McKee,Linda,A,F,MBChB/FRCGP/DCCH/DRCOH,,,1983,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+Paterson,Linsey,R,F,MBChB/MRCGP,,,2005,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+Taylor,Jonathon,A,M,,,,,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+Vass,Lesley,M,F,MBChB/MRCGP/DRCOG,,,1993,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+Wedderburn,Stephen,,M,MBChB/FGCGP/DRCOG/D.Derm,,,1979,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+Windle,Emma,L,F,MBChB/MRCGP,,,2006,,N3095-1,5,Rubislaw Place Medical Group,,,,,,
+Legg,Richard,J,M,MBChB/MRCGP,,,,,N3056-1,12,Marywell  Healthcare Centre,,,,,,
+Hamilton,Margaret,E,F,MBChB/MRCGP,,,,,N3056-1,12,Marywell  Healthcare Centre,,,,,,
+Buchanan,Carol,E,F,MBChB/MRCGP,,,,,N3056-1,12,Marywell  Healthcare Centre,,,,,,
+Gamba,Fumen,E,F,,,,,,N3056-1,12,Marywell  Healthcare Centre,,,,,,
+Fowler,David,,M,MBChB/MRCGP,,,,,,34,Cove Bay Health Centre,,,,,,
+Henderson,Andrew,J,,MBChB/MRCGP/DRCOG/DFFP,,,,,,34,Cove Bay Health Centre,,,,,,
+Jamieson,Alasdair,D,M,MBChB,,,1989,,,34,Cove Bay Health Centre,,,,,,
+MacFarlane,Anna,,F,MBChB/MRCS/MRCGP,,,2002,,,34,Cove Bay Health Centre,,,,,,
+Mackenzie,Lynne,J,F,MBChB/DRCOG/MRCGP/DFFP/Loc IUT,,,1992,,,34,Cove Bay Health Centre,,,,,,
+Mitchell,Catharine,,F,MBChB/MRCGP,,,1993,,,34,Cove Bay Health Centre,,,,,,
+Sampathkumar,Subhashini,,F,MBBS/DRCOG/MRCGP,,,,,,34,Cove Bay Health Centre,,,,,,
+Skinner,Smantha,,F,,,,,,,34,Cove Bay Health Centre,,,,,,
+Whiteside,Samantha,L,F,MBChB/MRCGP/DFFP/DRCOG/Loc IUT/Loc SDI,,,2000,,,34,Cove Bay Health Centre,,,,,,
+Harris,Claire,,F,MBchB/MRCP/MRCGP,,,1997,,,34,Cove Bay Health Centre,,,,,,
+Fowler,David,,M,MBChB/MRCGP,,,,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Henderson,Andrew,J,,MBChB/MRCGP/DRCOG/DFFP,,,,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Jamieson,Alasdair,D,M,MBChB,,,1989,,N3040-1,14,Kincorth Medical Centre,,,,,,
+MacFarlane,Anna,,F,MBChB/MRCS/MRCGP,,,2002,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Mackenzie,Lynne,J,F,MBChB/DRCOG/MRCGP/DFFP/Loc IUT,,,1992,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Mitchell,Catharine,,F,MBChB/MRCGP,,,1993,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Sampathkumar,Subhashini,,F,MBBS/DRCOG/MRCGP,,,,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Skinner,Smantha,,F,,,,,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Whiteside,Samantha,L,F,MBChB/MRCGP/DFFP/DRCOG/Loc IUT/Loc SDI,,,2000,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Harris,Claire,,F,MBchB/MRCP/MRCGP,,,1997,,N3040-1,14,Kincorth Medical Centre,,,,,,
+Anderson,Emily,,F,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Padubidare,Guruprasad,,M,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Phull,Elizabeth,A,F,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Provan,Christopher,D,M,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Repper,James,A,M,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Watt,Ruby,MJ,F,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Bennett,Shona,,F,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Wright,Emily,C,F,,,,,,N3020-3,30,Elmbank Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City ,0845 3370710,01224 558169
+Burnett,Joan,C,F,MBChB/MRCGP,Aberdeen University,1980,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+Davidson,Gairn,W,M,MBChB/MRCGP,Aberdeen University,1996,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+Elliot,Louise,P,F,MBChB/MRCGP,Aberdeen University,1993,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+Lopez,Fiona,C,F,MBChB/MRCGP,Aberdeen University,2004,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+McLauchlan,Alan,JW,M,MBChB/FRCGP,Aberdeen University,1997,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+Mearns,Alison,MR,F,MBChB/MRCGP,Aberdeen University,1981,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+Strachan,Richard,P,M,MBChB/MRCGP,Edinburgh University,2002,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+Watson,Peter,AF,M,MBChB/FRCGP,Aberdeen University,1984,,,N3062-7,25,Links Medical Practice,City Hospital/ Park Rd,Aberdeen,AB24 5AU,Aberdeen City ,0845 337 6340,01224 611090
+Cunningham,Deborah,AF,F,,,,,,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+Glenesk,Alsion,D,F,,,,,,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+Hay,Andrew,D,M,,,,1983,Respiratory problems/Diabetes/Minor surgery,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+Lynch,Dorothy,D,M,,Glasgow University,1981,,Diabetes/Women's health,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+Macfarlane,Mhairi,,F,,Aberdeen University,2001,,,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+Munro,Cameron,M,F,,,,1983,Acupuncture/Running Injuries,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+West,Shanti,F,F,,University of Ireland,2002,,Elderly medicine/Women's health,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+Theodossiou,Kyriakos,,M,,Aberdeen University,2006,,Minor Surgery,N3005-9,7,Holburn Medical Group,7 Albyn PLace,,,,,
+Cunningham,Deborah,AF,F,,Aberdeen University,2005,,Family planning,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+Glenesk,Alsion,D,F,,,,,,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+Hay,Andrew,D,M,,,,1983,,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+Lynch,Dorothy,D,M,,Glasgow University,1981,,,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+Macfarlane,Mhairi,,F,,Aberdeen University,2001,,,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+Munro,Cameron,M,F,,,,1983,,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+West,Shanti,F,F,,University of Ireland,2002,,,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+Theodossiou,Kyriakos,,M,,Aberdeen University,2006,,,,7,Holburn Medical Group,"Oscar Road, Torry",Aberdeen,,,,
+Breene,Emma,R,F,MBChB/MRCPCH/DFFP/MRCGP,Aberdeen University,1997,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Davey,Katrina,AM,F,MBChB/DRCOG/MRCGP,Aberdeen University,1995,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Davidson,S Gail,,F,MBChB/FRCGP/DCCH,Aberdeen University,1987,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Hewitt,Craig,,M,MBChB/MRCGP,,,,,N3003-0,13,Garthdee Medical Group,,,,,,
+House,Julia,M,F,MBChB/MRCGP/DCCH/DRCOG,London,1985,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Morgan,Colin,T,M,,,,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Murray,Wendy,M,F,MBChB/DRCOG/MRCGP/DFFP,Aberdeen University,1998,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Shepherd,Susan,J,F,MBChB/DRCOG/MRCGP/DFFP,Glasgow University,1982,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Murison,Suzanne,M,F,,,,,,N3003-0,13,Garthdee Medical Group,,,,,,
+Clarke,Geoffrey,J,M,MBChB/DRCOG/MRCGP,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+Crofton,Adrian,R,M,MBChB/MRCGP/MRCPCH,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+Pepple,Amonika,E,F,MBBS/MRCGP,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+Philip,Thomas,,M,MBBS/MRCS/MRCGP,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+Smart,Anna,,F,MBChB/MRCGP,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+West,Catriona,M,F,MBChB/MRCGP,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+McLaren,Catherine,M,F,MBChB/MRCS/MRCGP/DFFP/DRCOG,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+Marwick,Theresa,J,F,MBChB/MRCGP,,,,,N3097-1,6,Carden Medical Practice,,,,,,
+Crockett,Ben,,M,MBChB/MRCGP,,,,,N3120-6,19,Scotstown Medical Group,,,,,,
+Forbes,Alasdair,A,M,MBChB/FRCGP,,,1989,,N3120-6,19,Scotstown Medical Group,,,,,,
+Gupta,Rajan,,M,MBChB/MRCGP,,,,,N3120-6,19,Scotstown Medical Group,,,,,,
+Lamberton,Robert,B,M,MBChB/FRCGP/DCH/DRCOG,,,1982,,N3120-6,19,Scotstown Medical Group,,,,,,
+Stewart,Jillian,,F,MBChB/MRCGP,,,,,N3120-6,19,Scotstown Medical Group,,,,,,
+Henderson,isabel,M,F,MBChB/MRCGP,,,,,N3120-6,19,Scotstown Medical Group,,,,,,
+Kilfeather,Ruth,A,F,,,,,,N3120-6,19,Scotstown Medical Group,,,,,,
+Neilson,Angela,B,F,MBChB/MRCGP,,,,,N3120-6,19,Scotstown Medical Group,,,,,,
+Greig,Sylvia,M,F,,,,,,N3076-9,29,Northfield\/Mastrick Medical Group,Quarry Road/Northfield,Aberdeen,AB16 5UU,Aberdeen City,01224 662911,01224 849322
+Ramasamy,Anubama,,U,,,,,,N3076-9,29,Northfield\/Mastrick Medical Group,Quarry Road/Northfield,Aberdeen,AB16 5UU,Aberdeen City,01224 662911,01224 849322
+Stewart,Janice,,F,,,,,,N3076-9,29,Northfield\/Mastrick Medical Group,Quarry Road/Northfield,Aberdeen,AB16 5UU,Aberdeen City,01224 662911,01224 849322
+Wani,Ghulam Moham,,M,,,,,,N3076-9,29,Northfield\/Mastrick Medical Group,Quarry Road/Northfield,Aberdeen,AB16 5UU,Aberdeen City,01224 662911,01224 849322
+Rebello,Claire,,F,,,,,,N3076-9,29,Northfield\/Mastrick Medical Group,Quarry Road/Northfield,Aberdeen,AB16 5UU,Aberdeen City,01224 662911,01224 849322
+Greig,Sylvia,M,F,,,,,,N3076-9,35,Mastrick Clinic,Greenfern Road/ Mastrick,Aberdeen,AB16 6TR,Aberdeen City,01224 662933,01224 663873
+Ramasamy,Anubama,,U,,,,,,N3076-9,35,Mastrick Clinic,Greenfern Road/ Mastrick,Aberdeen,AB16 6TR,Aberdeen City,01224 662933,01224 663873
+Stewart,Janice,,F,,,,,,N3076-9,35,Mastrick Clinic,Greenfern Road/ Mastrick,Aberdeen,AB16 6TR,Aberdeen City,01224 662933,01224 663873
+Wani,Ghulam Moham,,M,,,,,,N3076-9,35,Mastrick Clinic,Greenfern Road/ Mastrick,Aberdeen,AB16 6TR,Aberdeen City,01224 662933,01224 663873
+Rebello,Claire,,F,,,,,,N3076-9,35,Mastrick Clinic,Greenfern Road/ Mastrick,Aberdeen,AB16 6TR,Aberdeen City,01224 662933,01224 663873
+D'Costa,Rudolph,,U,,,,,,N3080-5,28,Rosemount Medical Practice,1 View Terrace,Aberdeen,AB25 2RS,Aberdeen City,0845 337 0520,01224 846939
+Daniel,L Gay,,F,,,,,,N3080-5,28,Rosemount Medical Practice,1 View Terrace,Aberdeen,AB25 2RS,Aberdeen City,0845 337 0520,01224 846939
+Gregory,Helen,,F,MBChB/MRCGP,,,,,N3080-5,28,Rosemount Medical Practice,1 View Terrace,Aberdeen,AB25 2RS,Aberdeen City,0845 337 0520,01224 846939
+Taylor,Tracy,,F,MBChB/MRCGP/DRCOG,,,,,N3080-5,28,Rosemount Medical Practice,1 View Terrace,Aberdeen,AB25 2RS,Aberdeen City,0845 337 0520,01224 846939
+Wilson,Stephen,J,M,MBChB/MRCGP,,,,,N3080-5,28,Rosemount Medical Practice,1 View Terrace,Aberdeen,AB25 2RS,Aberdeen City,0845 337 0520,01224 846939
+Jayappa,Nandish,,M,,,,,,N3026-1,31,Westburn Medical Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City,01224 559595,01224 559597
+Reith,William,,M,,,,,,N3026-1,31,Westburn Medical Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City,01224 559595,01224 559597
+Wade,Charlotte,E,F,,,,,,N3026-1,31,Westburn Medical Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City,01224 559595,01224 559597
+Coutts,Louisa,C,F,,,,,,N3026-1,31,Westburn Medical Group,Foresterhill HC/ Westburn Rd,Aberdeen,AB25 2AY,Aberdeen City,01224 559595,01224 559597
+Duncan,John,K,M,MBChB/FRCGP/DRCOG/DFSRH,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Earley,David,,M,MBChB/MRCGP,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Finlayson,Brett,L,M,MBChB/FRCGP,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Jack,Kerry,M,F,MBChB/MRCGP/DRCOG,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Lamberton,Gillian,E,F,MBChB/DRCOG/MRCGP,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Mackenzie,Euan,,M,,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+McCanny,Julie Rose,,F,,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Miller,Kirsty,I,F,MBChB/MRCGP,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Pai,Ria,,F,MBBS/DRCOG/DFSRH/MRCGP,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Vorenkamp,Ewan,D,M,,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Wallace,Julia,D,F,MBChB/FRCGP/DRCOG,,,,,N3114-1,27,Woodside Medical Group,80 Western Road/ Woodside,Aberdeen,AB24 4SU,Aberdeen City,01224 492631,01224 276173
+Cornwell,Graeme,,M,MBChB/MRCGP/FRCGP,Aberdeen University,1990,1990,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Craik,Mary,C,F,MBChB/MRCGP,Aberdeen University,1988,1988,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Farquharson,Judith,M,F,MBChB/FRCGP/DRCOG,Aberdeen University,1982,1982,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Harrison,William,J,M,MBChB/MRCGP/DRCOG,Aberdeen University,1984,1984,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Prentice,Jacqueline,,F,MBChB/MRCGP/DFFP,Edinburgh University,2001,2001,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Terwey,Stephen,L,M,MBChB/MRCGP/DRCOG,Aberdeen University,2001,2001,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Hampton,Shayma,L,F,,,,,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+McAuley,Stuart,,M,,,,,,N3090-9,2,Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,Aberdeen City,01224 586829,01224 565404/213238
+Geider,Stefan,A,M,,,,1996,anthroposophical medicine/cancer treatment,N3133-3,32,Camphill Medical Practice,St John's - Murtle Estate/Bieldside,Aberdeen,AB15 9EP,Aberdeen City,01224 868935,01224 868971
+Van Lieshout,Simon,A,M,,,,,,N3133-3,32,Camphill Medical Practice,St John's - Murtle Estate/Bieldside,Aberdeen,AB15 9EP,Aberdeen City,01224 868935,01224 868971
+Furste,Wolfgang,HO,M,,,,1996,,N3133-3,32,Camphill Medical Practice,St John's - Murtle Estate/Bieldside,Aberdeen,AB15 9EP,Aberdeen City,01224 868935,01224 868971
+Beattie,Craig,,M,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Bruce,Susan,A,F,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Cooper,David,O,M,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Grant,Neil,CR,M,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Gray,Julie,,F,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+McKay,Alexander,R,M,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Okpo,Blessing,,F,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Sneddon,Alison,SM,F,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Stewart,Rorie,JG,M,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Vorenkamp,Jennifer,,F,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Wearden,David,J,M,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+McLeish,Kelly,,F,,,,,,N3050-4,21,Oldmachar Medical Practice,,,,,,
+Beattie,Craig,,M,,,,,,,22,Jesmond Surgery,,,,,,
+Bruce,Susan,A,F,,,,,,,22,Jesmond Surgery,,,,,,
+Cooper,David,O,M,,,,,,,22,Jesmond Surgery,,,,,,
+Grant,Neil,CR,M,,,,,,,22,Jesmond Surgery,,,,,,
+Gray,Julie,,F,,,,,,,22,Jesmond Surgery,,,,,,
+McKay,Alexander,R,M,,,,,,,22,Jesmond Surgery,,,,,,
+Okpo,Blessing,,F,,,,,,,22,Jesmond Surgery,,,,,,
+Sneddon,Alison,SM,F,,,,,,,22,Jesmond Surgery,,,,,,
+Stewart,Rorie,JG,M,,,,,,,22,Jesmond Surgery,,,,,,
+Vorenkamp,Jennifer,,F,,,,,,,22,Jesmond Surgery,,,,,,
+Wearden,David,J,M,,,,,,,22,Jesmond Surgery,,,,,,
+McLeish,Kelly,,F,,,,,,,22,Jesmond Surgery,,,,,,
+Buchanan,Carol,E,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Chuluuntulga,Tuya,,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Kelsey,Dawn,M,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+MacRae,Susan,E,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Mair,Dianne,E,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+McCann,Wendy,,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Mouat,Walter,H,M,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Ward-Smith,Gemma,L,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Delaney,Elizabeth,K,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Thomson,Paula,,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Close,Carol,,F,,,,,,N3091-3,24,Old Aberdeen Medical Practice,,,,,,
+Crossley,Cindy,,F,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+Dinesh,Krish,,M,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+Hoque,Ehsanul,,U,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+Jack,Colin,A,M,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+Scott,James,,M,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+Shirreffs,Murdoch,J,M,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+White,Jane,C,F,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+Wilson,J Gordon,,M,,,,,,N3121-1,15,Gilbert Road Medical Group,,,,,,
+Close,Carol,,F,,,,,,,33,Health Centre (Dyce),,,,,,
+Crossley,Cindy,,F,,,,,,,33,Health Centre (Dyce),,,,,,
+Dinesh,Krish,,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Hoque,Ehsanul,,U,,,,,,,33,Health Centre (Dyce),,,,,,
+Jack,Colin,A,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Scott,James,,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Shirreffs,Murdoch,J,M,,,,,,,33,Health Centre (Dyce),,,,,,
+White,Jane,C,F,,,,,,,33,Health Centre (Dyce),,,,,,
+Wilson,J Gordon,,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Kiehlmann,Peter,A,M,,,,,,N3125-9,20,Danestone Medical Practice,,,,,,
+McGrory,Damian,,M,,,,,,N3125-9,20,Danestone Medical Practice,,,,,,
+McKeown,Rhona,C,F,,,,,,N3125-9,20,Danestone Medical Practice,,,,,,
+Paterson,Christine,L,F,,,,,,N3125-9,20,Danestone Medical Practice,,,,,,
+Lumsden,Linzi,J,F,,,,,,N3125-9,20,Danestone Medical Practice,,,,,,
+Cooper,Juliet,K,F,,,,,,N3125-9,20,Danestone Medical Practice,,,,,,
+McMann,Pamela,M,F,,,,,,N3025-6,17,Bucksburn Medical Practice,,,,,,
+Stenback,Suvi,,F,,,,,,N3025-6,17,Bucksburn Medical Practice,,,,,,
+Wylie,Lynne,,F,,,,,,N3025-6,17,Bucksburn Medical Practice,,,,,,
+Aiken,Yvonne,,F,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+Kennedy,Neil,S,M,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+Malcolm,Lesley,,F,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+McGrath,Robert,D,M,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+Rafi,M Farhan,,M,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+Valentine,Malcolm,J,M,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+Green,Joanna,,F,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+Keenan,Fionna,E,F,,,,,,N3024-1,18,Brimmond Medical Group,,,,,,
+Aiken,Yvonne,,F,,,,,,,33,Health Centre (Dyce),,,,,,
+Kennedy,Neil,S,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Malcolm,Lesley,,F,,,,,,,33,Health Centre (Dyce),,,,,,
+McGrath,Robert,D,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Rafi,M Farhan,,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Valentine,Malcolm,J,M,,,,,,,33,Health Centre (Dyce),,,,,,
+Green,Joanna,,F,,,,,,,33,Health Centre (Dyce),,,,,,
+Keenan,Fionna,E,F,,,,,,,33,Health Centre (Dyce),,,,,,
+Charleson,Pauline,,F,,,,,,N3100-9,8,Victoria Street Medical Group,,,,,,
+Grant,Sandra,H,F,,,,,,N3100-9,8,Victoria Street Medical Group,,,,,,
+Howe,Gregor,WB,M,,,,,,N3100-9,8,Victoria Street Medical Group,,,,,,
+Sutherland,Fraser,T,M,,,,,,N3100-9,8,Victoria Street Medical Group,,,,,,
+Boyce,Jacqueline,M,F,,,,,,N3100-9,8,Victoria Street Medical Group,,,,,,
+Mackay,Miriam,L,F,,,,,,N3100-9,8,Victoria Street Medical Group,,,,,,
+Rore,Sandra,,F,,,,,,N3100-9,8,Victoria Street Medical Group,,,,,,
+Charleson,Pauline,,F,,,,,,,16,Kingswells Medical Practice,,,,,,
+Grant,Sandra,H,F,,,,,,,16,Kingswells Medical Practice,,,,,,
+Howe,Gregor,WB,M,,,,,,,16,Kingswells Medical Practice,,,,,,
+Sutherland,Fraser,T,M,,,,,,,16,Kingswells Medical Practice,,,,,,
+Boyce,Jacqueline,M,F,,,,,,,16,Kingswells Medical Practice,,,,,,
+Mackay,Miriam,L,F,,,,,,,16,Kingswells Medical Practice,,,,,,
+Rore,Sandra,,F,,,,,,,16,Kingswells Medical Practice,,,,,,
+Ede,Robert,,M,,,,,,N3124-4,3,Peterculter Medical Practice,,,,,,
+Harris,Douglas,CM,M,,,,,,N3124-4,3,Peterculter Medical Practice,,,,,,
+Howarth,Caroline,J,F,,,,,,N3124-4,3,Peterculter Medical Practice,,,,,,
+McMain,Thomas,S,M,,,,,,N3124-4,3,Peterculter Medical Practice,,,,,,
+Owen,Joanne,A,F,,,,,,N3124-4,3,Peterculter Medical Practice,,,,,,
+Sudder,Jennifer,A,F,,,,,,N3124-4,3,Peterculter Medical Practice,,,,,,
+Alderson,Pamela,M,F,,,,,,N3021-8,4,Hamilton Medical Group,,,,,,
+Charleson,Frank,,M,,,,,,N3021-8,4,Hamilton Medical Group,,,,,,
+Collie,Wilma,M,F,,,,,,N3021-8,4,Hamilton Medical Group,,,,,,
+Sekulin,Jennifer,L,F,,,,,,N3021-8,4,Hamilton Medical Group,,,,,,
+Turner,Gillian,,F,,,,,,N3021-8,4,Hamilton Medical Group,,,,,,
+Watson,David,PB,M,,,,,,N3021-8,4,Hamilton Medical Group,,,,,,
+Donald,Robert,J,M,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Howe,Elaine,G,F,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Lawton,Kenneth,,M,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Morris,Valerie,J,F,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Ritchie,Gary,D,M,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Taylor,Zoe,D,M,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Wallace,Ewan,D,M,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Adam,Rosalind,,F,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Ferri,Natalia,,F,,,,,,N3030-7,9,Great Western Medical Practice,,,,,,
+Booth,Adam,,M,,,,,,N3123-0,1,Cults Medical Group,,,,,,
+Mathieson,Derek,,M,,,,,,N3123-0,1,Cults Medical Group,,,,,,
+McKeown,John,P,M,,,,,,N3123-0,1,Cults Medical Group,,,,,,
+Morton,Moira,A,F,,,,,,N3123-0,1,Cults Medical Group,,,,,,
+Smith,Naomi,,f,,,,,,N3123-0,1,Cults Medical Group,,,,,,
+Lourens,Carolina,J,F,,,,,,N3123-0,1,Cults Medical Group,,,,,,
